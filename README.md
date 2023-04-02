@@ -1,5 +1,5 @@
 ![MasterHead](https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
-<h2 align="center">Hello! Welcome to my GitHub profile! Thankyou for visiting😊!</h2>
+<h2 align="center">Hello <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> Welcome to my GitHub profile! Thankyou for visiting😊!</h2>
 <h3 align="center">Frontend developer 🛠️</h3>
 
 
