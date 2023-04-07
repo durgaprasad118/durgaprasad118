@@ -3,17 +3,10 @@
 <h2 align="center">Hello <img height="25px" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">! Welcome to my GitHub profile! Thankyou for visiting😊!</h2>
 <h3 align="center">Frontend developer 🛠️</h3>
 <p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=42E2B8&width=380&height=45&lines=Open-Source+Enthusiast;Exploring+New+Technologies;&center=true"></a>
 </p>
-
-
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=durgaprasad118&label=Profile%20views&color=0e75b6&style=flat" alt="durgaprasad118" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-👯 I’m looking to collaborate on **Open source Project**
+👯 I’m looking to collaborate on  **Open Source Project**
 
 👨‍💻 All of my projects are available at [Portfolio](https://myportfolio-dp1108.netlify.app/#)
 
