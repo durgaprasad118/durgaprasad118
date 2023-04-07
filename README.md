@@ -6,7 +6,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=42E2B8&width=380&height=45&lines=Open-Source+Enthusiast;Exploring+New+Technologies;&center=true"></a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=durgaprasad118&label=Profile%20views&color=0e75b6&style=flat" alt="durgaprasad118" /> </p>
-👯 I’m looking to collaborate on  **Open Source Project**
+
+👯 I’m looking to collaborate on <strong>Open Source Project</strong>
 
 👨‍💻 All of my projects are available at [Portfolio](https://myportfolio-dp1108.netlify.app/#)
 
