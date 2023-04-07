@@ -1,6 +1,11 @@
-![MasterHead](https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
+
+<p align="center"><img alt="Profile Banner" src="https://user-images.githubusercontent.com/128791771/229297587-9443d280-5e49-4872-9e5c-1ed6caab2f41.png"></p>
 <h2 align="center">Hello <img height="25px" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">! Welcome to my GitHub profile! Thankyou for visiting😊!</h2>
 <h3 align="center">Frontend developer 🛠️</h3>
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=42E2B8&width=380&height=45&lines=Open-Source+Enthusiast;Exploring+New+Technologies;&center=true"></a>
+</p>
 
 
 
