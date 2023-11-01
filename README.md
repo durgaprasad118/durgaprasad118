@@ -15,61 +15,31 @@
 🎓 *I have skills like:* 
 **Full stack Web Development!** 💻
 **Data Structures and Algorithms** 📅
-**Python, JavaScript** 
+**JavaScript** 
 **Blogs & Content Writing** 📝
-**DBMS, OS, Computer Networks**
 **Node.Js, Express.Js**
 **MongoDB** 📊
 **Problem Solving** 🧠
 **Git & GitHub** 
 
-### :man_technologist: Find me here! :
-<div id="badges" align = "center">
-  <a href="https://www.linkedin.com/in/dp1108/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/durga_prasad08">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://dp-portfolio-git-main-durgaprasad118.vercel.app/">
-    <img src="https://img.shields.io/badge/DurgaPrasad-red?style=for-the-badge&logo=peace&logoColor=white" alt="Developer Badge"/>
-  </a>
-  <a href="https://hashnode.com/@durgaprasad1108">
-    <img src="https://img.shields.io/badge/hashnode-orange?style=for-the-badge&logo=hashnode&logoColor=royalblue" alt="hashnode Badge"/>
-  </a>   
-    <a href="mailto:durgaprasadachana1108@gmail.com">
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-</div>
-<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/durga_prasad08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewithvroon" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dp1108/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<a href="https://discord.gg/1027770464824741908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dp" height="30" width="40" /></a>
+<a href="https://hashnode.com/@durgaprasad1108" target="blank" ><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="Hashnode Profile" height="30" width="30" /></a>
+</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://www.ritechpune.com/backend/courseicon/ReactJS.png" title="React" alt="React" width="80" height="80"/>&nbsp;
-  <img src="https://e7.pngegg.com/pngimages/893/87/png-clipart-web-development-html-cascading-style-sheets-css3-bootstrap-minimalist-resume-blue-angle.png"  title="CSS3" alt="CSS" width="80" height="80"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/91731654/212694244-f0de3a3b-2de2-4a2b-a2e6-3ad085463582.png" title="Tailwind css" alt="tailwind css " width="80" height="80"/>&nbsp;
-  <img src="https://cdn3d.iconscout.com/3d/free/thumb/javascript-logo-6563586-5453022.png" title="JavaScript" alt="JavaScript" width="80" height="80"/>&nbsp;
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" title="TypeScript" alt="TypeScript" width="80" height="80"/>&nbsp;
-  <img src="https://w7.pngwing.com/pngs/780/57/png-transparent-node-js-javascript-database-mongodb-native-miscellaneous-text-trademark.png" title="NodeJS" alt="NodeJS" width="80" height="80"/>&nbsp;
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" title="Git" **alt="Git" width="80" height="80"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png" title="HTML5" alt="HTML" width="80" height="80"/>&nbsp;
-  <img src="https://www.pngfind.com/pngs/m/62-626208_python-logo-png-transparent-background-python-logo-png.png" title="Python" **alt="Python" width="80" height="80"/>
-  <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" title="MongoDB" **alt="MongoDB" width="80" height="80"/>
-  <img src="https://www.kindpng.com/picc/m/403-4039227_c-language-logo-png-transparent-png.png" title="C" alt="C " width="80" height="80"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" title="Canva" alt="Canva " width="80" height="80"/>&nbsp;
-  <img src="https://w7.pngwing.com/pngs/431/965/png-transparent-figma-designer-computer-icons-material-design-design-rectangle-poster-logo.png" title="figma" alt="figma " width="80" height="80"/>&nbsp;
-  <img src="https://e7.pngegg.com/pngimages/702/907/png-clipart-intellij-idea-integrated-development-environment-computer-software-jetbrains-java-others-miscellaneous-angle.png" title="Intellij" alt="Intellij " width="80" height="80"/>&nbsp;
-  <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" title="Express" alt="Express " width="80" height="80"/>&nbsp;
+
+<h1 align="center">📊 GitHub Stats:</h1>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=durgaprasad118&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgaprasad118&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /><br/>
+</p>
+<div align='center'>
+   <h2> ✍️ Dev Quotes </h2>  
+   <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical'> <br/>
 </div>
 
-## 🏆 *Github Status*
-
-<img  src="https://github-readme-stats.vercel.app/api?username=durgaprasad118&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=durgaprasad118&theme=dark" width="48%" >
-<br>
-
-<div align="center">
-  
-
-<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=durgaprasad118&row=4&theme=onedark&no-frame=true" />
-</div>
