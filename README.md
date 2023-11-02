@@ -1,26 +1,6 @@
+[![An image of @durgaprasad118's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/durgaprasad118)](https://holopin.io/@durgaprasad118)
 
-<p align="center"><img alt="Profile Banner" src="https://user-images.githubusercontent.com/128791771/229297587-9443d280-5e49-4872-9e5c-1ed6caab2f41.png"></p>
-<h2 align="center">Hello <img height="25px" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">! Welcome to my GitHub profile! Thankyou for visiting😊!</h2>
-<h3 align="center"> Full Stack Developer 🛠️</h3>
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=42E2B8&width=380&height=45&lines=Open-Source+Enthusiast;Exploring+New+Technologies;&center=true"></a>
-</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=durgaprasad118&label=Profile%20views&color=0e75b6&style=flat" alt="durgaprasad118" /> </p>
-
-### :man_technologist: About Me :
-**I am a Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">**.**
-
-🚀 **I love being creative and bring efficiency to my work. Technology fascinates me so much, I love solving problems, building an optimized solution, and being creative in any task of mine is an obsession for me. I love reading books! learning new things, communicating with people, building network.**
-
-🎓 *I have skills like:* 
-**Full stack Web Development!** 💻
-**Data Structures and Algorithms** 📅
-**JavaScript** 
-**Blogs & Content Writing** 📝
-**Node.Js, Express.Js**
-**MongoDB** 📊
-**Problem Solving** 🧠
-**Git & GitHub** 
+<h3 align="center"> Full Stack Developer </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
