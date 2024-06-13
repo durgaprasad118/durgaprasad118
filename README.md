@@ -300,8 +300,3 @@
 	</table>
 
 
-<div align='center'>
-   <h2> ✍️ Dev Quotes </h2>  
-   <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical'> <br/>
-</div>
-
