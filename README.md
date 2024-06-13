@@ -16,7 +16,7 @@
       height="32"
   /></a>
   <a
-    href="https://twitter.com/durgaprasad_118"
+    href="https://twitter.com/durgaprasaddev"
     target="_blank"
     ><img
       style="margin: 10px"
